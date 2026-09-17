@@ -2,13 +2,31 @@
 
 Couple actor-verb cores with explicit logical connectors to clarify causality.
 
+[![Kirby Fitzpatrick Collection](https://img.shields.io/badge/Kirby_Fitzpatrick-Writers_Collection-blue?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+[![Kirby Skills Collection](https://img.shields.io/badge/Kirby_Skills-Collection-purple?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-skills-collection)
+
 ---
+
+## Repo Details
+
+* **Repository**: [https://github.com/markkirby125/kirby-fitzpatrick-gricean-bridge-connector](https://github.com/markkirby125/kirby-fitzpatrick-gricean-bridge-connector)
+* **Parent Collection**: [kirby-fitzpatrick-writers-collection](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+* **Master Directory**: [kirby-skills-collection](https://github.com/markkirby125/kirby-skills-collection)
+* **Category**: Paragraph Cohesion
+* **Framework Author**: William Fitzpatrick
+* **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
+* **Source Lecture**: "I’m an Editor, these are the 7 First-Draft Mistakes I Fix All the Time"
+* **Direct Video URL**: https://www.youtube.com/watch?v=bBg7GyIfn0A
+
+---
+
 ## Attribution & Provenance
 
 * **Original Framework Author**: William Fitzpatrick
 * **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
 * **Source Lecture**: "I’m an Editor, these are the 7 First-Draft Mistakes I Fix All the Time"
 * **Direct Video URL**: https://www.youtube.com/watch?v=bBg7GyIfn0A
+
 ---
 
 ## Overview
